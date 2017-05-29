@@ -1,0 +1,16 @@
+{
+  "screenshots": [
+      {
+        "img": "assets/images/citi.jpg",
+        "description": "Visa"
+      },
+      {
+        "img": "assets/images/kb.jpg",
+        "description": "Mastercard"
+      },
+      {
+        "img": "assets/images/cc.jpg",
+        "description": "KB"
+      }
+  ]
+}
